@@ -1,0 +1,10 @@
+DEBUG   2018-03-24 23:52:35,384 [main] com.naga.ProgrammaticLog4jExample  - this is a debug log message
+INFO    2018-03-24 23:52:35,395 [main] com.naga.ProgrammaticLog4jExample  - this is a information log message
+WARN    2018-03-24 23:52:35,396 [main] com.naga.ProgrammaticLog4jExample  - this is a warning log message
+DEBUG   2018-03-24 23:54:03,891 [main] com.naga.ProgrammaticLog4jExample  - this is a debug log message
+INFO    2018-03-24 23:54:03,901 [main] com.naga.ProgrammaticLog4jExample  - this is a information log message
+WARN    2018-03-24 23:54:03,902 [main] com.naga.ProgrammaticLog4jExample  - this is a warning log message
+INFO    2018-03-24 23:55:13,741 [main] com.naga.ProgrammaticLog4jExample  - this is a information log message
+WARN    2018-03-24 23:55:13,753 [main] com.naga.ProgrammaticLog4jExample  - this is a warning log message
+INFO    2018-03-24 23:55:55,741 [main] com.naga.ProgrammaticLog4jExample  - this is a information log message
+WARN    2018-03-24 23:55:55,751 [main] com.naga.ProgrammaticLog4jExample  - this is a warning log message

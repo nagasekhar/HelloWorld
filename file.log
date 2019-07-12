@@ -1,0 +1,19 @@
+2018-03-25 00:27:30 INFO  file - hello file
+2018-03-25 00:29:28 DEBUG file - hello file
+2018-03-25 00:46:28 DEBUG file - class com.naga.LoggerEx hello file
+2018-03-25 00:49:20 DEBUG file - class com.naga.LoggerEx hello file
+2018-03-25 00:49:20 DEBUG file - class com.naga.LogClass hello file  1
+2018-03-25 00:53:03 DEBUG file - com.naga.LoggerEx hello file
+2018-03-25 00:53:03 DEBUG file - com.naga.LogClass hello file  1
+2018-03-25 00:54:37 DEBUG  
+2018-03-25 00:54:37 DEBUG  
+2018-03-25 00:55:34   com.naga.LoggerEx hello file
+2018-03-25 00:55:34   com.naga.LogClass hello file  1
+2018-03-25 00:57:48 INFO  com.naga.LoggerEx hello admin
+2018-03-25 00:57:48 INFO  com.naga.LogClass hello admin  1 
+2018-03-25 00:59:05 INFO  com.naga.LoggerEx hello admin
+2018-03-25 00:59:05 INFO  com.naga.LogClass hello admin  1 
+2018-03-25 01:01:56 INFO  com.naga.LoggerEx hello admin
+2018-03-25 01:01:56 INFO  com.naga.LogClass hello admin  1 
+2019-05-25 14:44:07 INFO  com.naga.LoggerEx hello admin
+2019-05-25 14:44:07 INFO  com.naga.LogClass hello admin  1 
